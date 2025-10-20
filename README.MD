@@ -41,7 +41,7 @@ CIBERSEC NEWS is a cybersecurity news aggregator that collects information from 
 Clone the repository and install the dependencies:
 
 ```bash
-git clone https://github.com/[yourusername]/cibersec-news.git
+git clone https://github.com/Sysop81/Cibersec-news.git
 cd cibersec-news
 pip install -r requirements.txt
 ```
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 You can add new RSS sources for news extraction. To do this, edit the FeedJSON.json file located at:
 
 ```
-/feed_json/feeds.json
+/feed_json/FeedJSON.json
 ```
 Each entry in this file represents an RSS channel that the application processes to extract news and generate the XLS report.
 
