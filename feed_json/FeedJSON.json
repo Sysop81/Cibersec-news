@@ -1,0 +1,22 @@
+{
+  "CyberSecurity News": "https://cybersecuritynews.es/feed/",
+    "The Hacker News": "https://thehackernews.com/feeds/posts/default",
+    "Krebs on Security": "https://krebsonsecurity.com/feed/",
+    "Dark Reading": "https://www.darkreading.com/rss/all",
+    "CSO Online": "https://www.csoonline.com/index.rss",
+    "We Live Security": "https://www.welivesecurity.com/es/feed/",
+    "SecurityWeek": "https://www.securityweek.com/rss.xml",
+    "Cyber Security Hub": "https://www.cshub.com/rss-feeds",
+    "Fortinet Blog": "https://www.fortinet.com/blog/rss.xml",
+    "Cisco Security": "https://sec.cloudapps.cisco.com/security/center/rss.x?i=44",
+    "Threatpost": "https://threatpost.com/feed/",
+    "BleepingComputer": "https://www.bleepingcomputer.com/feed/",
+    "SC Magazine": "https://www.scmagazine.com/feed/",
+    "InfoSecurity Magazine": "https://www.infosecurity-magazine.com/rss/news/",
+    "NetSecurity": "https://www.net-security.org/rss/news.rss",
+    "Security Boulevard": "https://securityboulevard.com/feed/",
+    "HackRead": "https://www.hackread.com/feed/",
+    "IT Security Guru": "https://www.itsecurityguru.org/feed/",
+    "Malwarebytes Labs": "https://blog.malwarebytes.com/feed/",
+    "TechCrunch Security": "https://techcrunch.com/category/security/feed/"
+}
